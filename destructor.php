@@ -1,5 +1,5 @@
 <?php
-
+// A destructor is called when the object is destructed or the script is stopped or exited.
 class Person
 {
     public $name;
