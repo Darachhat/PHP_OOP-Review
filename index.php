@@ -3,6 +3,7 @@
 // Create Object that contain data and function
 // Class is templete for object Example Car
 // Object is an instance of class Example BMW, GTR
+// In a class, variables are called properties and functions are called methods!
 
 
 Class Car{
