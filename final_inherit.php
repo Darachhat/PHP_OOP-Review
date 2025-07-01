@@ -6,7 +6,7 @@ final class Fruit {
     public $color;
     public $weight;
 
-    public function __construct($name, $color, $weight){
+    final function __construct($name, $color, $weight){
         $this->name = $name;
         $this->color = $color;
         $this->weight = $weight;
